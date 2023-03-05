@@ -1,4 +1,4 @@
-# WebDataReader
+# Web Data Reader
 
 1. Description:
 - A simple tool to take page source from a website and export to .txt file
